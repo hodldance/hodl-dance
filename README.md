@@ -34,19 +34,19 @@ The platform also distributes a portion of transaction fees to active ecosystem 
 | Contract | Address | Source |
 |---|---|---|
 | HODL4 Token | `0x197fb6855E0D6a237a7AB6228e3a0B8168fe5dEc` | Public |
+| HODL4 Locker | `0xc6c74eb9ec01799e4D5e58574769d54391B05F0A` | Public |
+| DANCEMAN | `0xdd0a56050c66c514bb6c3ef7f940cfe25f549020` | Public |
 | Airdrop HODL4 | `0x63F8b68b7D96E0Cf31fC22d21D8cE6F4d7C56D1c` | Public |
-| TokenFactory | `0x99A1F02f56E8356e6E90A880DBb1be6EC7485737` | Public after audit |
-| MemecoinTemplate | `0x28fECa617A7b94297795d0FBCCda88D8cD8D3382` | Public |
-| BondingCurve | `0xea508aD6B550E94aC45831F265B2bD5346d06700` | Public after audit |
-| Ads | `0x5876a2cE3b44d8785ED2A96CCD60C76180A3ff83` | Public |
-| Profile | `0x44484af893a62dcd78a0c6b50360b85d8bde4f5b` | Public |
-| Verification | `0xF6D96668B5966Bb943Ad66a95acc677282CBe726` | Public |
+| Token Factory | `0x99A1F02f56E8356e6E90A880DBb1be6EC7485737` | Public after audit |
+| Memecoin Template | `0x28fECa617A7b94297795d0FBCCda88D8cD8D3382` | Public |
+| Bonding Curve Template | `0xea508aD6B550E94aC45831F265B2bD5346d06700` | Public after audit |
+| Ad Payment Gateway | `0x5876a2cE3b44d8785ED2A96CCD60C76180A3ff83` | Public |
+| Profile Activator | `0x44484af893a62dcd78a0c6b50360b85d8bde4f5b` | Public |
+| Verification Payer | `0xF6D96668B5966Bb943Ad66a95acc677282CBe726` | Public |
 | Locker | `0x7aED5c149E32Ff72FfA1eA334DBef652e40a19E7` | Public after audit |
-| AirdropTool | `0xf7F26E6cA35ebedb80Fa8C7D2B30a4849dd44693` | Public |
-| DanceManNFT | `SOON` | — |
-| NFT Marketplace | `SOON` | — |
+| Airdrop Tool | `0xf7F26E6cA35ebedb80Fa8C7D2B30a4849dd44693` | Public |
 
-> ⚠️ **TokenFactory**, **BondingCurve** and **Locker** source code will be made public following a third-party security audit.
+> ⚠️ **Token Factory**, **Bonding Curve Template** and **Locker** source code will be made public following a third-party security audit.
 
 ---
 
