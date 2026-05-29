@@ -35,11 +35,11 @@ The platform also distributes a portion of transaction fees to active ecosystem 
 |---|---|---|
 | HODL4 Token | `0x197fb6855E0D6a237a7AB6228e3a0B8168fe5dEc` | Public |
 | HODL4 Locker | `0xc6c74eb9ec01799e4D5e58574769d54391B05F0A` | Public |
-| DANCEMAN | `0xdd0a56050c66c514bb6c3ef7f940cfe25f549020` | Public |
+| DANCEMAN | `0x0f9620e2b54a84875c843c76c8dc67472530de32` | Public |
 | Airdrop HODL4 | `0x63F8b68b7D96E0Cf31fC22d21D8cE6F4d7C56D1c` | Public |
 | Token Factory | `0x99A1F02f56E8356e6E90A880DBb1be6EC7485737` | Public after audit |
 | Memecoin Template | `0x28fECa617A7b94297795d0FBCCda88D8cD8D3382` | Public |
-| Bonding Curve Template | `0xea508aD6B550E94aC45831F265B2bD5346d06700` | Public after audit |
+| Bonding Curve Template | `0x055a531E6ad091FE5516B3D81BD877592012B7E7` | Public after audit |
 | Ad Payment Gateway | `0x5876a2cE3b44d8785ED2A96CCD60C76180A3ff83` | Public |
 | Profile Activator | `0x44484af893a62dcd78a0c6b50360b85d8bde4f5b` | Public |
 | Verification Payer | `0xF6D96668B5966Bb943Ad66a95acc677282CBe726` | Public |
