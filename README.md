@@ -132,6 +132,8 @@ Frontend, backend, and remaining source code will be progressively open-sourced.
   GitHub: [hodldance/agent-skill](https://github.com/hodldance/agent-skill)
 
 - **Meme It!** Chrome extension — Launch tokens straight from X/Twitter posts.
+[Add to Browser](https://chromewebstore.google.com/detail/hodldance-%E2%80%93-meme-it/plindkpdkfmdgmjngkjablbobbikccjl)
+[Source Code](https://github.com/hodldance/hodl-meme-extension)
 
 - Smart contract developers: Use the public templates once audits are complete.
 
