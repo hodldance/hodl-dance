@@ -95,7 +95,7 @@ The platform also includes a **Rewards Program** (sharing platform fees with act
 | **Profile Activator**     | `0x44484af893a62dcd78a0c6b50360b85d8bde4f5b` | Yes         | —                                  |
 | **Verification Payer**    | `0xF6D96668B5966Bb943Ad66a95acc677282CBe726` | Yes         | —                                  |
 | **Locker (Main LP)**      | `0x562ff19485674d9b965ab14a1034370f5e3af7c9` | No          | **Core LP locker** – Pending audit |
-| **Airdrop Tool**          | `0xf7F26E6cA35ebedb80Fa8C7D2B30a4849dd44693` | Yes         | —                                  |
+| **Airdrop Tool**          | `0x63370Af58a32eb830a1c1F711F77617196835425` | Yes         | —                                  |
 
 > Core contracts (Token Factory, Bonding Curve Template, and the main Locker) will have their source code made fully public after successful third-party security audit.
 
